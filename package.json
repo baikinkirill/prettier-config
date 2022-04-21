@@ -4,6 +4,7 @@
   "description": "Prettier Config",
   "main": "index.json",
   "license": "MIT",
+  "prettier": "@baikinkirill/prettier-config",
   "keywords": [
     "prettier",
     "prettier-config"
